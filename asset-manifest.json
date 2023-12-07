@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Cars_Drive/static/css/main.a1646f7b.css",
+    "main.js": "/Cars_Drive/static/js/main.c2451eb2.js",
+    "index.html": "/Cars_Drive/index.html",
+    "main.a1646f7b.css.map": "/Cars_Drive/static/css/main.a1646f7b.css.map",
+    "main.c2451eb2.js.map": "/Cars_Drive/static/js/main.c2451eb2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1646f7b.css",
+    "static/js/main.c2451eb2.js"
+  ]
+}
