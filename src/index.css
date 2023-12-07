@@ -1,13 +1,15 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+
+body{
+  color: white;
+  background-image: url('https://img.freepik.com/premium-photo/d-render-sports-car-with-lights-goes-camera-black-background_161488-1054.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  width : 100vw;
+  margin :0 ;
+  overflow: hidden;
 }
